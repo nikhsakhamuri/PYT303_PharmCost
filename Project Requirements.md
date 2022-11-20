@@ -24,22 +24,22 @@ Instead, the higher points are meant to reflect the weekly effort this assignmen
 This project should be worked on throughout the course as you learn the material -- do not wait until week 5 to get started.
 
 
-Introduction </br>
+</br>Introduction </br>
 Full points are awarded for a straightforward introduction including the objective of the report/script and any domain-specific hypotheses your team has going into the analysis. 
 10% </br>
-</b>Data Exploration
+</b>Data Exploration</br>
 Full points for robust exploration of the data used to explore any nuances or limitations within the data source. 
 15% </br>
-</br>Data Analysis
+</br>Data Analysis</br>
 Full points for an appropriately executed regression with the interpretation of the output in the context of the objective. This step should also include any needed data cleaning.
 20% </br>
-</br>Data Visualization
+</br>Data Visualization</br>
 Full points for at least two appropriate visualizations of your group's data. Visualizations must provide some value to the analysis and be well-labeled. 
 15% </br>
-</br>Recommendation
+</br>Recommendation</br>
 Full points for clear and actionable takeaway from the analysis. Data analysis is as much about how to code as it is about how to use code as a tool to extract insights. 
 20% </br>
-</br>Readability / Story Telling
+</br>Readability / Story Telling</br>
 Full points for appropriate documentation throughout the report that speaks to the intended logic behind the code. In addition, the notebook must clarify where each section begins and how each section ties into the objective and final recommendations. 
 20% </br>
 
