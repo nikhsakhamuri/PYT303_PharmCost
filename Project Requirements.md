@@ -27,7 +27,7 @@ This project should be worked on throughout the course as you learn the material
 </br>Introduction </br>
 Full points are awarded for a straightforward introduction including the objective of the report/script and any domain-specific hypotheses your team has going into the analysis. 
 10% </br>
-</b>Data Exploration</br>
+</br>Data Exploration</br>
 Full points for robust exploration of the data used to explore any nuances or limitations within the data source. 
 15% </br>
 </br>Data Analysis</br>
