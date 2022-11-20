@@ -1,6 +1,6 @@
 # Rubric and Requirements 
 
-##This information was downloaded from the course modules.
+<b>This information was downloaded from the course modules.</b>
 
 (DUE: December 4th, 2022)
 
