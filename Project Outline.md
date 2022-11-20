@@ -53,7 +53,8 @@ Part 6: Readability/ Story Telling 
 
 - Assigned To: Nikki, Jesse, and John 
 - set up our Jupyter Notebook and proper storytelling of our hypothesis
+
 <b> Due By: 12/2/22
 </b>
 
-Here is a link to it: https://github.com/nikhsakhamuri/PYT303_PharmCost 
+Here is a link to our project repository where you can store your jupyter notebook as you work on this project: https://github.com/nikhsakhamuri/PYT303_PharmCost 
