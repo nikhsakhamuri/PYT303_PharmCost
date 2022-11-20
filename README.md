@@ -16,3 +16,4 @@ Nikhitha Sakhamuri, Project Manager
 # Data source: 
 </br>https://www.kaggle.com/datasets/tunguz/pharmaceutical-drug-spending-by-countries 
 
+## The data source is downloaded and available in this repository titled as 'PharmaceuticalCostsbyCountry.csv'
