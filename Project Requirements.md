@@ -1,7 +1,10 @@
 # Rubric and Requirements 
 
-To-Do Date: Nov 13 at 11:59pm
-As part of this course, students will work in groups of 2-4 (groups will be assigned by the instructor) to complete a data analysis project. The project will be opened during Week 2 and due at the end of Week 5 (DUE: December 4th, 2022). 
+##This information was downloaded from the course modules.
+
+(DUE: December 4th, 2022)
+
+As part of this course, students will work in groups of 2-4 (groups will be assigned by the instructor) to complete a data analysis project. The project will be opened during Week 2 and due at the end of Week 5 
 Objective
 The objective of this project is for students to get hands-on experience working on robust data analysis projects with the goal of recommending actionable insights using data from a domain they are interested in. These projects are also meant to serve as a peer-reviewed addition to students' coding portfolios so they can walk away from this course with a GitHub-worthy example of their python knowledge (or at least something to talk about in a future interview!)
 Project Requirements 
