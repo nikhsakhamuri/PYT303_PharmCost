@@ -25,7 +25,7 @@ Part 2: Data Exploration 
 
 Part 3: Data Analysis
 
-- Assigned To: Sofia, John, and Nikki 
+- Assigned To: Sofia, Kevin, and Nikki 
 - Utilize learning from Week 3 to do a futher analysis of our data. 
 
 <b>Due By: 11/27/22
@@ -51,7 +51,7 @@ Part 5: Recommendation 
 
 Part 6: Readability/ Story Telling 
 
-- Assigned To: Nikki, Jesse, and John 
+- Assigned To: Nikki, Jesse, and Kevin
 - set up our Jupyter Notebook and proper storytelling of our hypothesis
 
 <b> Due By: 12/2/22
